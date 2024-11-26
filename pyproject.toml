@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "mlx-whisper"
+version = "0.1.0"
+description = ""
+authors = ["John X <john.iv@x25bd.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+torch = "^2.5.1"
+openai-whisper = "^20240930"
+torchaudio = "^2.5.1"
+ipykernel = "^6.29.5"
+notebook = "^7.2.2"
+wandb = "^0.18.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
