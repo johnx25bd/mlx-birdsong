@@ -1,0 +1,20 @@
+{"time":"2024-11-26T11:53:35.507896Z","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-26T11:53:35.507943Z","level":"INFO","msg":"created symlink","path":"/Users/x25bd/Code/mlx/week-7/mlx-whisper/notebooks/wandb/run-20241126_115333-j9pe8ve0/logs/debug-core.log"}
+{"time":"2024-11-26T11:53:35.617207Z","level":"INFO","msg":"created new stream","id":"j9pe8ve0"}
+{"time":"2024-11-26T11:53:35.617259Z","level":"INFO","msg":"stream: started","id":"j9pe8ve0"}
+{"time":"2024-11-26T11:53:35.617259Z","level":"INFO","msg":"handler: started","stream_id":"j9pe8ve0"}
+{"time":"2024-11-26T11:53:35.617293Z","level":"INFO","msg":"writer: Do: started","stream_id":"j9pe8ve0"}
+{"time":"2024-11-26T11:53:35.617295Z","level":"INFO","msg":"sender: started","stream_id":"j9pe8ve0"}
+{"time":"2024-11-26T11:53:35.934664Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-26T11:54:28.983425Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-26T11:54:28.984511Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-26T11:54:29.270151Z","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-26T11:54:29.270173Z","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-26T11:54:29.270181Z","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-26T11:54:29.647984Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-26T11:54:29.87292Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-26T11:54:30.886233Z","level":"INFO","msg":"stream: closing","id":"j9pe8ve0"}
+{"time":"2024-11-26T11:54:30.886251Z","level":"INFO","msg":"handler: closed","stream_id":"j9pe8ve0"}
+{"time":"2024-11-26T11:54:30.88626Z","level":"INFO","msg":"writer: Close: closed","stream_id":"j9pe8ve0"}
+{"time":"2024-11-26T11:54:30.886299Z","level":"INFO","msg":"sender: closed","stream_id":"j9pe8ve0"}
+{"time":"2024-11-26T11:54:30.886434Z","level":"INFO","msg":"stream: closed","id":"j9pe8ve0"}

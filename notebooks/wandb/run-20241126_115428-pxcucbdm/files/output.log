@@ -1,0 +1,820 @@
+Epochs:   0%|          | 0/10 [00:00<?, ?it/s]
+Training:   5%|▌         | 5/100 [00:20<07:03,  4.46s/it]
+5
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Puna)
+Actual: Common Greenshank
+Loss: 1.4403806924819946
+7
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Puna)
+Actual: Rose-ringed Parakeet
+Loss: 4.816661357879639
+0
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Puna)
+Actual: Eurasian Coot
+Loss: 5.283263206481934
+5
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Puna)
+Actual: Common Greenshank
+Loss: 0.26472288370132446
+6
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Puna)
+Actual: Little Ringed Plover
+Loss: 4.38178014755249
+6
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Puna)
+Actual: Little Ringed Plover
+Loss: 3.4610824584960938
+3
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Tawny-breasted Tinamou
+Actual: Common Sandpiper
+Loss: 4.839958667755127
+8
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Tawny-breasted Tinamou
+Actual: Green Sandpiper
+Loss: 4.714133262634277
+7
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Darwin's)
+Actual: Rose-ringed Parakeet
+Loss: 1.419334053993225
+9
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Darwin's)
+Actual: Eurasian Collared-Dove
+Loss: 5.548513412475586
+0
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Darwin's)
+Actual: Eurasian Coot
+Loss: 1.8709436655044556
+4
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Darwin's)
+Actual: Gray Heron
+Loss: 5.603796482086182
+2
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Darwin's)
+Actual: Little Grebe
+Loss: 5.879261493682861
+5
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Common Ostrich
+Actual: Common Greenshank
+Loss: 4.377054691314697
+4
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Common Ostrich
+Actual: Gray Heron
+Loss: 3.8597283363342285
+8
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Common Ostrich
+Actual: Green Sandpiper
+Loss: 1.7792563438415527
+5
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Common Greenshank
+Loss: 3.945009708404541
+0
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Eurasian Coot
+Loss: 1.8922256231307983
+5
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Common Greenshank
+Loss: 3.451864719390869
+1
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Eurasian Moorhen
+Loss: 6.198366641998291
+8
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea
+Actual: Green Sandpiper
+Loss: 1.3825234174728394
+5
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Common Greenshank
+Loss: 2.1751999855041504
+8
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Green Sandpiper
+Loss: 1.2466496229171753
+0
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Eurasian Coot
+Loss: 2.445889472961426
+8
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Green Sandpiper
+Loss: 1.0472774505615234
+9
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Eurasian Collared-Dove
+Loss: 3.4658336639404297
+9
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Eurasian Collared-Dove
+Loss: 3.3280513286590576
+3
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Common Sandpiper
+Loss: 4.642050266265869
+0
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Eurasian Coot
+Loss: 2.1851983070373535
+9
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Puna)
+Actual: Eurasian Collared-Dove
+Loss: 1.7005635499954224
+2
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou (South American)
+Actual: Little Grebe
+Loss: 3.806525707244873
+5
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou (South American)
+Actual: Common Greenshank
+Loss: 1.9101834297180176
+8
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou (South American)
+Actual: Green Sandpiper
+Loss: 2.7272963523864746
+9
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou (South American)
+Actual: Eurasian Collared-Dove
+Loss: 0.7816396951675415
+6
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou (South American)
+Actual: Little Ringed Plover
+Loss: 5.96354341506958
+3
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou (South American)
+Actual: Common Sandpiper
+Loss: 3.375093936920166
+7
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou (South American)
+Actual: Rose-ringed Parakeet
+Loss: 5.51256799697876
+2
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou (South American)
+Actual: Little Grebe
+Loss: 2.140592098236084
+7
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou (South American)
+Actual: Rose-ringed Parakeet
+Loss: 4.576676368713379
+9
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Common/Somali Ostrich
+Actual: Eurasian Collared-Dove
+Loss: 1.7599642276763916
+2
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Common/Somali Ostrich
+Actual: Little Grebe
+Loss: 1.1865147352218628
+5
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Common/Somali Ostrich
+Actual: Common Greenshank
+Loss: 2.4788827896118164
+9
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Common/Somali Ostrich
+Actual: Eurasian Collared-Dove
+Loss: 2.4067883491516113
+6
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Common/Somali Ostrich
+Actual: Little Ringed Plover
+Loss: 3.6152424812316895
+6
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Common/Somali Ostrich
+Actual: Little Ringed Plover
+Loss: 3.1551156044006348
+4
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Common/Somali Ostrich
+Actual: Gray Heron
+Loss: 4.650595664978027
+2
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Common/Somali Ostrich
+Actual: Little Grebe
+Loss: 1.5258833169937134
+3
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Darwin's)
+Actual: Common Sandpiper
+Loss: 2.5651159286499023
+4
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Darwin's)
+Actual: Gray Heron
+Loss: 3.7127134799957275
+1
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Darwin's)
+Actual: Eurasian Moorhen
+Loss: 4.511843204498291
+0
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Darwin's)
+Actual: Eurasian Coot
+Loss: 4.479103088378906
+4
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Darwin's)
+Actual: Gray Heron
+Loss: 2.129739284515381
+3
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Darwin's)
+Actual: Common Sandpiper
+Loss: 2.314877986907959
+2
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea
+Actual: Little Grebe
+Loss: 2.702378988265991
+0
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea
+Actual: Eurasian Coot
+Loss: 3.6475565433502197
+5
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea
+Actual: Common Greenshank
+Loss: 2.926666736602783
+7
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea
+Actual: Rose-ringed Parakeet
+Loss: 3.1974308490753174
+7
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea
+Actual: Rose-ringed Parakeet
+Loss: 3.0390172004699707
+1
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea
+Actual: Eurasian Moorhen
+Loss: 2.3971357345581055
+1
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Greater Rhea
+Actual: Eurasian Moorhen
+Loss: 2.0834109783172607
+8
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Somali Ostrich
+Actual: Green Sandpiper
+Loss: 3.949326515197754
+6
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Somali Ostrich
+Actual: Little Ringed Plover
+Loss: 3.7242321968078613
+3
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Somali Ostrich
+Actual: Common Sandpiper
+Loss: 2.345960855484009
+2
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Somali Ostrich
+Actual: Little Grebe
+Loss: 2.9667136669158936
+1
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Somali Ostrich
+Actual: Eurasian Moorhen
+Loss: 0.977299153804779
+4
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Somali Ostrich
+Actual: Gray Heron
+Loss: 3.375668525695801
+9
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Somali Ostrich
+Actual: Eurasian Collared-Dove
+Loss: 3.841785430908203
+8
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Somali Ostrich
+Actual: Green Sandpiper
+Loss: 3.1987931728363037
+7
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Somali Ostrich
+Actual: Rose-ringed Parakeet
+Loss: 2.059302568435669
+2
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Somali Ostrich
+Actual: Little Grebe
+Loss: 2.2816169261932373
+0
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Somali Ostrich
+Actual: Eurasian Coot
+Loss: 2.589752674102783
+5
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Tawny-breasted Tinamou
+Actual: Common Greenshank
+Loss: 3.0238845348358154
+1
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Common/Somali Ostrich
+Actual: Eurasian Moorhen
+Loss: 2.210728645324707
+3
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Common/Somali Ostrich
+Actual: Common Sandpiper
+Loss: 2.6014227867126465
+9
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Common/Somali Ostrich
+Actual: Eurasian Collared-Dove
+Loss: 2.887617588043213
+0
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Common/Somali Ostrich
+Actual: Eurasian Coot
+Loss: 2.192047357559204
+7
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Common/Somali Ostrich
+Actual: Rose-ringed Parakeet
+Loss: 2.0804340839385986
+3
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Common Ostrich
+Actual: Common Sandpiper
+Loss: 2.2819314002990723
+6
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Common Ostrich
+Actual: Little Ringed Plover
+Loss: 3.4114887714385986
+3
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Common Ostrich
+Actual: Common Sandpiper
+Loss: 1.87752103805542
+2
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Greater Rhea
+Actual: Little Grebe
+Loss: 2.4552736282348633
+1
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Greater Rhea
+Actual: Eurasian Moorhen
+Loss: 3.468684673309326
+6
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Greater Rhea
+Actual: Little Ringed Plover
+Loss: 2.9723689556121826
+4
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Greater Rhea
+Actual: Gray Heron
+Loss: 3.736452579498291
+7
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Greater Rhea
+Actual: Rose-ringed Parakeet
+Loss: 2.4114975929260254
+1
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Greater Rhea
+Actual: Eurasian Moorhen
+Loss: 3.028043746948242
+9
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Greater Rhea
+Actual: Eurasian Collared-Dove
+Loss: 2.513672351837158
+4
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Greater Rhea
+Actual: Gray Heron
+Loss: 2.994546413421631
+6
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Greater Rhea
+Actual: Little Ringed Plover
+Loss: 1.8971278667449951
+1
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Darwin's)
+Actual: Eurasian Moorhen
+Loss: 2.0107007026672363
+4
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Darwin's)
+Actual: Gray Heron
+Loss: 2.216728925704956
+2
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Somali Ostrich
+Actual: Little Grebe
+Loss: 2.8369083404541016
+7
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Somali Ostrich
+Actual: Rose-ringed Parakeet
+Loss: 2.4344444274902344
+6
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Somali Ostrich
+Actual: Little Ringed Plover
+Loss: 1.7139530181884766
+8
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea
+Actual: Green Sandpiper
+Loss: 4.934785842895508
+4
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea
+Actual: Gray Heron
+Loss: 1.3066259622573853
+0
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea
+Actual: Eurasian Coot
+Loss: 4.086025238037109
+8
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea
+Actual: Green Sandpiper
+Loss: 4.489927768707275
+1
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea
+Actual: Eurasian Moorhen
+Loss: 1.9347124099731445
+3
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea
+Actual: Common Sandpiper
+Loss: 4.513758659362793
+Training:   5%|▌         | 5/100 [00:23<07:35,  4.79s/it]
+5
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea
+Actual: Common Greenshank
+Loss: 4.3080291748046875
+7
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea
+Actual: Rose-ringed Parakeet
+Loss: 2.3356728553771973
+0
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea
+Actual: Eurasian Coot
+Loss: 3.2352776527404785
+5
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea
+Actual: Common Greenshank
+Loss: 3.628142833709717
+6
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea
+Actual: Little Ringed Plover
+Loss: 1.9378374814987183
+6
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Little Ringed Plover
+Loss: 1.884270429611206
+3
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Darwin's)
+Actual: Common Sandpiper
+Loss: 3.5522003173828125
+8
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Darwin's)
+Actual: Green Sandpiper
+Loss: 1.820349931716919
+7
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Darwin's)
+Actual: Rose-ringed Parakeet
+Loss: 2.0501906871795654
+9
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Darwin's)
+Actual: Eurasian Collared-Dove
+Loss: 3.413219928741455
+0
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Eurasian Coot
+Loss: 2.261965751647949
+4
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Gray Heron
+Loss: 3.6547155380249023
+2
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Little Grebe
+Loss: 3.6838650703430176
+5
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Common Greenshank
+Loss: 2.1145148277282715
+4
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Gray Heron
+Loss: 3.529345750808716
+8
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Common Ostrich
+Actual: Green Sandpiper
+Loss: 1.872833490371704
+5
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Common Ostrich
+Actual: Common Greenshank
+Loss: 1.7288706302642822
+0
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Puna)
+Actual: Eurasian Coot
+Loss: 1.7796722650527954
+5
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Puna)
+Actual: Common Greenshank
+Loss: 1.4258123636245728
+1
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Puna)
+Actual: Eurasian Moorhen
+Loss: 4.263025283813477
+8
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Puna)
+Actual: Green Sandpiper
+Loss: 2.1373491287231445
+5
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Puna)
+Actual: Common Greenshank
+Loss: 1.025038719177246
+8
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Puna)
+Actual: Green Sandpiper
+Loss: 2.0204427242279053
+0
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Puna)
+Actual: Eurasian Coot
+Loss: 1.9913668632507324
+8
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Puna)
+Actual: Green Sandpiper
+Loss: 1.6661169528961182
+9
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Puna)
+Actual: Eurasian Collared-Dove
+Loss: 3.363976001739502
+9
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Lesser Rhea (Puna)
+Actual: Eurasian Collared-Dove
+Loss: 3.215524196624756
+3
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Common Sandpiper
+Loss: 3.49059796333313
+0
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Eurasian Coot
+Loss: 2.0643973350524902
+9
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Eurasian Collared-Dove
+Loss: 2.280622720718384
+2
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Little Grebe
+Loss: 3.6126179695129395
+5
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou
+Actual: Common Greenshank
+Loss: 2.107150077819824
+8
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou (South American)
+Actual: Green Sandpiper
+Loss: 1.3281179666519165
+9
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou (South American)
+Actual: Eurasian Collared-Dove
+Loss: 1.1133795976638794
+6
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou (South American)
+Actual: Little Ringed Plover
+Loss: 4.756818771362305
+3
+logits.shape torch.Size([1, 10])
+cls_actual.shape torch.Size([1, 10])
+Prediction: Highland Tinamou (South American)
+Actual: Common Sandpiper
+Loss: 3.1610963344573975
+7

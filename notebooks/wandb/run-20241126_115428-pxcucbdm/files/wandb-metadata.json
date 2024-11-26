@@ -1,0 +1,34 @@
+{
+  "os":  "macOS-14.5-arm64-arm-64bit",
+  "python":  "3.9.20",
+  "startedAt":  "2024-11-26T11:54:30.888591Z",
+  "program":  "/Users/x25bd/Code/mlx/week-7/mlx-whisper/notebooks/whisper.ipynb",
+  "email":  "john.iv@x25bd.com",
+  "root":  "/Users/x25bd/Code/mlx/week-7/mlx-whisper/notebooks",
+  "host":  "xo.local",
+  "username":  "x25bd",
+  "executable":  "/Users/x25bd/Code/mlx/week-7/mlx-whisper/.venv/bin/python",
+  "codePathLocal":  "whisper.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "994662584320",
+      "used":  "757171200000"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  8
+  },
+  "apple":  {
+    "name":  "Apple M1",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  8,
+    "memoryGb":  16
+  }
+}

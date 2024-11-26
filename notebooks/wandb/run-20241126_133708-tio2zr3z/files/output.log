@@ -1,0 +1,3 @@
+Training:   0%|          | 0/7 [00:24<?, ?it/s]
+Epochs:   0%|          | 0/10 [00:24<?, ?it/s]]
+torch.Size([16, 80, 3000]) torch.Size([16, 10])

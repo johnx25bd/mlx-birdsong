@@ -1,0 +1,20 @@
+{"time":"2024-11-26T11:48:58.11407Z","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-26T11:48:58.114114Z","level":"INFO","msg":"created symlink","path":"/Users/x25bd/Code/mlx/week-7/mlx-whisper/notebooks/wandb/run-20241126_114855-38a9n9c0/logs/debug-core.log"}
+{"time":"2024-11-26T11:48:58.223738Z","level":"INFO","msg":"created new stream","id":"38a9n9c0"}
+{"time":"2024-11-26T11:48:58.22408Z","level":"INFO","msg":"stream: started","id":"38a9n9c0"}
+{"time":"2024-11-26T11:48:58.224094Z","level":"INFO","msg":"writer: Do: started","stream_id":"38a9n9c0"}
+{"time":"2024-11-26T11:48:58.224139Z","level":"INFO","msg":"sender: started","stream_id":"38a9n9c0"}
+{"time":"2024-11-26T11:48:58.224137Z","level":"INFO","msg":"handler: started","stream_id":"38a9n9c0"}
+{"time":"2024-11-26T11:48:58.64578Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-26T11:49:06.677343Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-26T11:49:06.680029Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-26T11:49:06.840802Z","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-26T11:49:06.840816Z","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-26T11:49:06.840821Z","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-26T11:49:07.245495Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-26T11:49:07.475563Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-26T11:49:08.481715Z","level":"INFO","msg":"stream: closing","id":"38a9n9c0"}
+{"time":"2024-11-26T11:49:08.481732Z","level":"INFO","msg":"handler: closed","stream_id":"38a9n9c0"}
+{"time":"2024-11-26T11:49:08.481742Z","level":"INFO","msg":"writer: Close: closed","stream_id":"38a9n9c0"}
+{"time":"2024-11-26T11:49:08.481748Z","level":"INFO","msg":"sender: closed","stream_id":"38a9n9c0"}
+{"time":"2024-11-26T11:49:08.481838Z","level":"INFO","msg":"stream: closed","id":"38a9n9c0"}

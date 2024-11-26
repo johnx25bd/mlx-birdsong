@@ -1,0 +1,5 @@
+Training:   0%|          | 0/4 [00:01<?, ?it/s]
+Epochs:   0%|          | 0/10 [00:01<?, ?it/s]]
+batch.shape torch.Size([1, 10])
+mel_input.shape torch.Size([1, 10])
+torch.Size([1, 10]) torch.Size([1, 10])
