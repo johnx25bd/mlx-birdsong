@@ -1,9 +1,0 @@
-{"time":"2024-11-26T12:16:00.352696Z","level":"INFO","msg":"using version","core version":"0.18.7"}
-{"time":"2024-11-26T12:16:00.352757Z","level":"INFO","msg":"created symlink","path":"/Users/x25bd/Code/mlx/week-7/mlx-whisper/notebooks/wandb/run-20241126_121558-n4puerdd/logs/debug-core.log"}
-{"time":"2024-11-26T12:16:00.459357Z","level":"INFO","msg":"created new stream","id":"n4puerdd"}
-{"time":"2024-11-26T12:16:00.459404Z","level":"INFO","msg":"stream: started","id":"n4puerdd"}
-{"time":"2024-11-26T12:16:00.459411Z","level":"INFO","msg":"handler: started","stream_id":"n4puerdd"}
-{"time":"2024-11-26T12:16:00.459411Z","level":"INFO","msg":"writer: Do: started","stream_id":"n4puerdd"}
-{"time":"2024-11-26T12:16:00.459472Z","level":"INFO","msg":"sender: started","stream_id":"n4puerdd"}
-{"time":"2024-11-26T12:16:00.755699Z","level":"INFO","msg":"Starting system monitor"}
-{"time":"2024-11-26T12:16:02.819201Z","level":"INFO","msg":"Pausing system monitor"}
