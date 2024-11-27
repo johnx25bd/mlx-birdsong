@@ -6,13 +6,18 @@ authors = ["John X <john.iv@x25bd.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = ">=3.9,<3.10"
 torch = "^2.5.1"
 openai-whisper = "^20240930"
 torchaudio = "^2.5.1"
 ipykernel = "^6.29.5"
 notebook = "^7.2.2"
 wandb = "^0.18.7"
+jupyter = "^1.1.1"
+pandas = "^2.2.3"
+geopandas = "^1.0.1"
+contextily = "^1.6.2"
+shapely = "^2.0.6"
 
 
 [build-system]

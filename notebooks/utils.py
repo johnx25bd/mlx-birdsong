@@ -1,5 +1,7 @@
+import wandb
 import torch
 import numpy as np
+from tqdm import tqdm
 
 def get_device():
     """Get the appropriate device for training."""
@@ -17,3 +19,7 @@ def set_all_seeds(seed: int):
     torch.backends.cudnn.deterministic = True
     torch.backends.cudnn.benchmark = False
     np.random.seed(seed)
+
+def build_run_name(hyperparameters: dict, model_name: str):
+    """Build a run name from a dictionary of hyperparameters."""
+    return f"w_{hyperparameters['WHISPER_MODEL']}-dataset_{hyperparameters['DATASET_NAME']}-model_{model_name}-projdimfactor_{hyperparameters['PROJECTION_DIM_FACTOR']}"
