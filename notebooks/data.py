@@ -37,3 +37,22 @@ class BirdClefDataset(Dataset):
 
         return mel_input, cls_actual, description
 
+
+# Not necessary on git repo, since we're including the audio files
+# import shutil
+# import os
+
+# def copy_audio_files(df, dest_dir):    
+#     for _, row in df.iterrows():
+#         # check if it exists in target directory
+#         if os.path.exists(f"{dest_dir}/{row['filename']}"):
+#             print(f"File {row['filename']} already exists")
+#             continue
+#         # copy the file to a new location
+#         # make sure the directory exists
+#         subdir = row['filename'].split('/')[0]
+#         os.makedirs(f"./{dest_dir}/{subdir}", exist_ok=True)
+#         shutil.copy(f"../data/birdclef-2024/train_audio/{row['filename']}", f"{dest_dir}/{row['filename']}")
+
+# copy_audio_files(df_train, "./subsample/train")
+# copy_audio_files(df_test, "./subsample/test")
