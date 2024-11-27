@@ -8,3 +8,5 @@ data/
 *.pyz
 *.pyw
 wandb/
+
+*.zip
