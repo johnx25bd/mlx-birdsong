@@ -10,12 +10,25 @@ This project uses OpenAI's Whisper model to classify bird species from their son
 
 ## Setup
 
-1. Install dependencies using Poetry:
+0. On a baremetal machine, install the dependencies:
 ```bash
-poetry install
+sudo apt install python3.9 python3.9-venv python3.9-dev
+pip install poetry
+poetry env use 3.9
 ```
 
-2. Prepare the data:
+1. Install dependencies using Poetry + activate the shell:
+```bash
+poetry install
+poetry shell
+```
+
+2. Start a jupyter notebook server:
+```bash
+jupyter lab
+```
+
+3. Prepare the data:
    - Download the BirdCLEF 2024 dataset
    - Unzip the files into `data/`
    - Alternatively, use the `subsample/` directory, which contains a subset of the data for faster development. (I tried to minimize modifications to the original data structure.)
