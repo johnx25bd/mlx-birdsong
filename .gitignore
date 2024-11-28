@@ -8,3 +8,4 @@ data/
 *.pyz
 *.pyw
 wandb/
+data*
