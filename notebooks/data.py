@@ -18,10 +18,18 @@ class BirdClefDataset(Dataset):
         row = self.df.iloc[idx]
         filename = f"./subsample/{self.set}/{row['filename']}"
         species_code = row['primary_label']
-        cls_actual = torch.zeros(len(self.df_classes))
-        cls_actual[self.cls2idx[species_code]] = 1.0
-        cls_actual = cls_actual
 
+        # Prep the classification target
+        cls_actual = torch.tensor(self.cls2idx[species_code], dtype=torch.long)
+
+
+        # Prep the coordinates
+        lon_norm = (row['longitude'] + 180.0) / 360.0
+        lat_norm = (row['latitude'] + 90.0) / 180.0
+        coords_norm = torch.tensor([lon_norm, lat_norm], dtype=torch.float32)
+
+
+        # Prep the audio
         audio = whisper.load_audio(filename)
         mel = whisper.log_mel_spectrogram(audio)
         
@@ -35,7 +43,7 @@ class BirdClefDataset(Dataset):
         description = f"id: {self.cls2idx[species_code]}, species: {species_code}, filename: {row['filename']}"
         # Do we need a mask?
 
-        return mel_input, cls_actual, description
+        return mel_input, coords_norm, cls_actual, description
 
 
 # Not necessary on git repo, since we're including the audio files

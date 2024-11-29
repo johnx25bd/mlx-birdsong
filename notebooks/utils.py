@@ -22,4 +22,4 @@ def set_all_seeds(seed: int):
 
 def build_run_name(hyperparameters: dict, model_name: str):
     """Build a run name from a dictionary of hyperparameters."""
-    return f"w_{hyperparameters['WHISPER_MODEL']}-dataset_{hyperparameters['DATASET_NAME']}-model_{model_name}-projdimfactor_{hyperparameters['PROJECTION_DIM_FACTOR']}"
+    return f"w_{hyperparameters['WHISPER_MODEL']}-dataset_{hyperparameters['DATASET_NAME']}-model_{model_name}-projdimfactor_{hyperparameters['PROJECTION_DIM_FACTOR']}-{'withcoords' if hyperparameters['COORDS'] else 'withoutcoords'}"
