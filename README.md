@@ -12,7 +12,8 @@ This project uses OpenAI's Whisper model to classify bird species from their son
 
 0. On a baremetal machine, install the dependencies:
 ```bash
-sudo apt install python3.9 python3.9-venv python3.9-dev
+apt install python3.9 python3.9-venv python3.9-dev
+apt-get install -y ffmpeg
 pip install poetry
 poetry env use 3.9
 ```
