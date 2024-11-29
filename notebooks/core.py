@@ -1,6 +1,24 @@
 import whisper
 import torch.nn as nn
+import torch.nn.functional as F
+
 from utils import get_device
+
+
+class ClassificationBlock(nn.Module):
+    def __init__(self, input_dim, hidden_dim, num_classes):
+        super(ClassificationBlock, self).__init__()
+        self.avg_pool = nn.AdaptiveAvgPool1d(1)
+        self.fc1 = nn.Linear(input_dim, hidden_dim)
+        self.fc2 = nn.Linear(hidden_dim, num_classes)
+
+    def forward(self, x):
+        x = self.avg_pool(x.permute(0, 2, 1)).squeeze(-1)  # Average pooling
+        x = self.fc1(x) # First linear layer
+        x = F.relu(x)  # ReLU
+        x = self.fc2(x)  # Second linear layer
+        return x
+
 
 class WhisperClassifier(nn.Module):
     def __init__(self, whisper_model: str, num_classes: int, projection_dim_factor: int, feedforward: bool, pooling: str):
@@ -11,11 +29,10 @@ class WhisperClassifier(nn.Module):
         self.feedforward = feedforward
         self.pooling = pooling
         if feedforward:
-            self.classifier = nn.Sequential(
-                nn.Linear(self.encoder.positional_embedding.size(-1), self.projection_dim),
-                nn.ReLU(),
-                nn.Linear(self.projection_dim, num_classes)
-            ).to(self.device)
+            self.classifier = ClassificationBlock(self.encoder.positional_embedding.size(-1), 
+                                                  self.projection_dim, 
+                                                  num_classes
+                                                ).to(self.device)
         else:
             self.classifier = nn.Linear(self.encoder.positional_embedding.size(-1), num_classes).to(self.device)
     
