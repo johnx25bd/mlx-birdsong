@@ -10,3 +10,5 @@ data/
 wandb/
 data*
 *.zip
+
+notebooks/subsample/large/*
